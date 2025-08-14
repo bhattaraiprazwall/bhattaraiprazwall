@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Backend Developer
+- 🔭 I’m currently working on MERN STACK DEVELOPER.
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Nepalese Backend Developer Community
 - 🤔 I’m looking for help with my skill.
