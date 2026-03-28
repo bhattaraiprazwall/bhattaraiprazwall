@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on MERN STACK DEVELOPER.
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently working on MERN STACK DEVELOPER and Flutter Developer.
+- 🌱 I’m currently learning Javascript and Dart.
 - 👯 I’m looking to collaborate on Nepalese Backend Developer Community
 - 🤔 I’m looking for help with my skill.
 - 💬 Ask me about anything.
