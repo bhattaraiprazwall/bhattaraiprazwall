@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi , I am Prajwal Bhattarai Full-Stack Developer skilled in the MERN stack and Flutter, focused on building responsive web and mobile applications. Experienced in React, Node.js, MongoDB, and Dart, with a strong interest in clean UI, API integration, and scalable development. Continuously learning and improving through real-world projects.
 
 
@@ -14,5 +13,3 @@ Hi , I am Prajwal Bhattarai Full-Stack Developer skilled in the MERN stack and F
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bhattaraiprazwall&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
