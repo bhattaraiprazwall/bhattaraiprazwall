@@ -12,4 +12,4 @@ Hi , I am Prajwal Bhattarai Full-Stack Developer skilled in the MERN stack and F
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhattaraiprazwall&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bhattaraiprazwall&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=[bhattaraiprazwall](https://github.com/bhattaraiprazwall)&icon=0&color=0)](https://visitcount.itsvg.in)
